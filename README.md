@@ -4,6 +4,8 @@
 # pitagoras
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/thalesdrago/pitagoras/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/thalesdrago/pitagoras/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of pitagoras is to be a dummy package that I use to understand
