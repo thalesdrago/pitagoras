@@ -26,7 +26,7 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(pitagoras)
-## basic example code
+## Basic example code
 
 # Community vector
 x <- c(1, 4, 5, 2, 1, 6)
